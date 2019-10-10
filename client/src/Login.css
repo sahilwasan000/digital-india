@@ -1,0 +1,38 @@
+#login-main{
+    width:50%;
+    display: flex;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,0);
+    top:10px;
+}
+#login{
+    width:50%;
+    text-align: center;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    background-color: white;
+    margin: 10px;
+    padding: 5px 0;
+    border-radius: 8px;
+}
+#signUpbtn{
+    width:50%;
+    text-align: center;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    margin: 10px;
+    padding: 5px 0;
+    border-radius: 8px;
+    background-color: white;
+}
+.signup{
+    margin-top:100px;
+}
+.logIn{
+    margin-top: 100px;
+}
+.qwe{
+    margin-right: 15px;
+}
+.sign-image{
+    height: 450px;
+}
